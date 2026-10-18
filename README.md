@@ -16,7 +16,7 @@ Sistema simples, executado no terminal, que **simula o monitoramento de um reser
 | Nível 1 | Muito baixo (crítico) | 🔴 Vermelho |
 | Nível 2 | Baixo | 🟡 Amarelo |
 | Nível 3 | Médio | 🟢 Verde |
-| Nível 4 | Alto | 🩵 Ciano |
+| Nível 4 | Alto | 💠 Ciano |
 | Nível 5 | Muito alto (alerta) | 🔵 Azul |
 
 ## 🐍 Tecnologias e conceitos utilizados
